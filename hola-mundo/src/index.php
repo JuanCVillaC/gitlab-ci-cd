@@ -1,5 +1,5 @@
 <?php
 
-echo "esta es la version 1.0";
+echo "esta es la version 2.0";
 
 ?>
